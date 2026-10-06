@@ -8,3 +8,4 @@ I like
 -eating
 ## goals 
 to become a web developer 
+** thanks you for visiting my site
