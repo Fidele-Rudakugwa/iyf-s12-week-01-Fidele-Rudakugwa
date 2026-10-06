@@ -1,1 +1,10 @@
-# iyf-s12-week-01-Fidele-Rudakugwa
+## im fiddle rudakugwa
+aluminium of iyf season 11  ack to pursue computer programming
+## hobby
+I like
+-coding
+-singing 
+-playing football 
+-eating
+## goals 
+to become a web developer 
